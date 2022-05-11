@@ -1,3 +1,11 @@
+# Globalchat
+This project was basicly a copy of [this repository](https://github.com/fireship-io/react-firebase-chat) and followed [this video](https://www.youtube.com/watch?v=zQyrwxMPm88&t=1s) on youtube.
+
+I followed this tutorial to get more understanding in React and Firebase.
+
+The project itself is a type of global chat, where the user needs to logg inn using their google account. Then after logging inn the user can send messages to all the other users that are logged inn.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
